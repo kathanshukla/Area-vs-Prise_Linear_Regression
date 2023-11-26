@@ -20,7 +20,7 @@ The dataset is divided into input (x) and output (y) variables.
 **Model Training:**
 A linear regression model is applied to the data using scikit-learn.
 
-*Individual Prediction:**
+**Individual Prediction:**
 The trained model is used to predict the price for a specific area (2000 sqft).
 
 **Model Evaluation:**
