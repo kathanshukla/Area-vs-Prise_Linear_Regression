@@ -27,7 +27,6 @@ The trained model is used to predict the price for a specific area (2000 sqft).
 The model's predictions are compared to the actual output values.
 
 **Coefficients and Intercept:**
-
 The coefficients (slope) and intercept of the linear regression model are obtained.
 
 **Best Fit Line Visualization:**
